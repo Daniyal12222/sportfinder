@@ -605,3 +605,19 @@ footer>p{
     box-sizing: border-box;
     margin-top: 50px;
 }
+.massig{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    position: fixed;
+    right: 10px;
+    top: 545px;
+    background-color: rgb(226 55 68);
+}
+.massig>img{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 12px;
+    top: 9px;
+}
